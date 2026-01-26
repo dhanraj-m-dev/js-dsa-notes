@@ -4,12 +4,12 @@
 
 ## LEVEL 1 — BASICS (1–16)
 
-- [ ] 01 var / let / const
-- [ ] 02 Primitive vs Reference
-- [ ] 03 Type coercion
-- [ ] 04 Operators
-- [ ] 05 Conditionals
-- [ ] 06 Loops
+- [X] 01 var / let / const
+- [X] 02 Primitive vs Reference
+- [X] 03 Type coercion
+- [X] 04 Operators
+- [X] 05 Conditionals
+- [X] 06 Loops
 - [ ] 07 String methods
 - [ ] 08 Number basics
 - [ ] 09 Array basics
@@ -23,10 +23,10 @@
 
 ## LEVEL 2 — CORE JS (17–27)
 
-- [ ] 17 Execution context
+- [X] 17 Execution context
 - [ ] 18 Lexical environment
 - [ ] 19 Scope chain
-- [ ] 20 Hoisting
+- [X] 20 Hoisting
 - [ ] 21 Temporal Dead Zone (TDZ)
 - [ ] 22 Function declaration vs expression
 - [ ] 23 Arrow functions
