@@ -1,15 +1,13 @@
-#js-dsa-notes
-
 # JavaScript Mastery — 64 Topics Checklist
 
 ## LEVEL 1 — BASICS (1–16)
 
-- [X] 01 var / let / const
-- [X] 02 Primitive vs Reference
-- [X] 03 Type coercion
-- [X] 04 Operators
-- [X] 05 Conditionals
-- [X] 06 Loops
+- [x] 01 var / let / const
+- [x] 02 Primitive vs Reference
+- [x] 03 Type coercion
+- [x] 04 Operators
+- [x] 05 Conditionals
+- [x] 06 Loops
 - [ ] 07 String methods
 - [ ] 08 Number basics
 - [ ] 09 Array basics
@@ -23,10 +21,10 @@
 
 ## LEVEL 2 — CORE JS (17–27)
 
-- [X] 17 Execution context
+- [x] 17 Execution context
 - [ ] 18 Lexical environment
 - [ ] 19 Scope chain
-- [X] 20 Hoisting
+- [x] 20 Hoisting
 - [ ] 21 Temporal Dead Zone (TDZ)
 - [ ] 22 Function declaration vs expression
 - [ ] 23 Arrow functions
