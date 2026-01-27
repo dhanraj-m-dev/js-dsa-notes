@@ -22,7 +22,7 @@
 ## LEVEL 2 — CORE JS (17–27)
 
 - [x] 17 Execution context
-- [ ] 18 Lexical environment
+- [x] 18 Lexical environment
 - [x] 19 Scope chain
 - [x] 20 Hoisting
 - [ ] 21 Temporal Dead Zone (TDZ)
