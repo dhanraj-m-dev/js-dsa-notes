@@ -23,7 +23,7 @@
 
 - [x] 17 Execution context
 - [ ] 18 Lexical environment
-- [ ] 19 Scope chain
+- [x] 19 Scope chain
 - [x] 20 Hoisting
 - [ ] 21 Temporal Dead Zone (TDZ)
 - [ ] 22 Function declaration vs expression
