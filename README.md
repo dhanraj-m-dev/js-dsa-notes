@@ -26,7 +26,7 @@
 - [x] 19 Scope chain
 - [x] 20 Hoisting
 - [ ] 21 Temporal Dead Zone (TDZ)
-- [ ] 22 Function declaration vs expression
+- [x] 22 Function declaration vs expression
 - [ ] 23 Arrow functions
 - [ ] 24 Default parameters
 - [ ] 25 Higher-order functions
