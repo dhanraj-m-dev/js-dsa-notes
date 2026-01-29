@@ -25,7 +25,7 @@
 - [x] 18 Lexical environment
 - [x] 19 Scope chain
 - [x] 20 Hoisting
-- [ ] 21 Temporal Dead Zone (TDZ)
+- [x] 21 Temporal Dead Zone (TDZ)
 - [x] 22 Function declaration vs expression
 - [x] 23 Arrow functions
 - [x] 24 Default parameters
