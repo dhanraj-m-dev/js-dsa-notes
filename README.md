@@ -27,7 +27,7 @@
 - [x] 20 Hoisting
 - [ ] 21 Temporal Dead Zone (TDZ)
 - [x] 22 Function declaration vs expression
-- [ ] 23 Arrow functions
+- [x] 23 Arrow functions
 - [ ] 24 Default parameters
 - [ ] 25 Higher-order functions
 - [ ] 26 Closures
