@@ -29,7 +29,7 @@
 - [x] 22 Function declaration vs expression
 - [x] 23 Arrow functions
 - [x] 24 Default parameters
-- [ ] 25 Higher-order functions
+- [x] 25 Higher-order functions
 - [ ] 26 Closures
 - [ ] 27 IIFE
 
