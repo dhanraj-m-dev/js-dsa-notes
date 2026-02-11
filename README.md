@@ -30,7 +30,7 @@
 - [x] 23 Arrow functions
 - [x] 24 Default parameters
 - [x] 25 Higher-order functions
-- [ ] 26 Closures
+- [x] 26 Closures
 - [ ] 27 IIFE
 
 ## THIS BINDING (28–32)
