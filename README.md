@@ -31,7 +31,7 @@
 - [x] 24 Default parameters
 - [x] 25 Higher-order functions
 - [x] 26 Closures
-- [ ] 27 IIFE
+- [x] 27 IIFE
 
 ## THIS BINDING (28–32)
 
