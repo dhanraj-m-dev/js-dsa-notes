@@ -35,7 +35,7 @@
 
 ## THIS BINDING (28–32)
 
-- [ ] 28 Default binding
+- [x] 28 Default binding
 - [ ] 29 Implicit binding
 - [ ] 30 Explicit binding (call / apply / bind)
 - [ ] 31 new binding
