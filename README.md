@@ -36,7 +36,7 @@
 ## THIS BINDING (28–32)
 
 - [x] 28 Default binding
-- [ ] 29 Implicit binding
+- [x] 29 Implicit binding
 - [ ] 30 Explicit binding (call / apply / bind)
 - [ ] 31 new binding
 - [ ] 32 Arrow function `this`
