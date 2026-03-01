@@ -43,8 +43,8 @@
 
 ## PROTOTYPES & OOP (33–40)
 
-- [ ] 33 Prototype
-- [ ] 34 Prototype chain
+- [x] 33 Prototype
+- [x] 34 Prototype chain
 - [ ] 35 Constructor functions
 - [ ] 36 Classes
 - [ ] 37 Inheritance
