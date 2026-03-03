@@ -1,10 +1,9 @@
 /**
- * Topic : Implicit Binding
+ * Topic: Implicit Binding
  *
  * Summary:
- * - Implicit binding happens when a function is invoked as a method of an object.
- * - 'this' refers to the object before the last dot.
- * - 'this' depends on how the function is called, not where it is defined.
+ * - Implicit binding occurs when a function is invoked as a method of an object.
+ * - In this case, `this` refers to the object before the last dot at the call-site.
  */
 
 // Example :

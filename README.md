@@ -45,7 +45,7 @@
 
 - [x] 33 Prototype
 - [x] 34 Prototype chain
-- [ ] 35 Constructor functions
+- [x] 35 Constructor functions
 - [ ] 36 Classes
 - [ ] 37 Inheritance
 - [ ] 38 Method overriding
