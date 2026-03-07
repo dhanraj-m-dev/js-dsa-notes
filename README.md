@@ -37,19 +37,19 @@
 
 - [x] 28 Default binding
 - [x] 29 Implicit binding
-- [ ] 30 Explicit binding (call / apply / bind)
-- [ ] 31 new binding
-- [ ] 32 Arrow function `this`
+- [x] 30 Explicit binding (call / apply / bind)
+- [x] 31 new binding
+- [x] 32 Arrow function `this`
 
 ## PROTOTYPES & OOP (33–40)
 
 - [x] 33 Prototype
 - [x] 34 Prototype chain
 - [x] 35 Constructor functions
-- [ ] 36 Classes
-- [ ] 37 Inheritance
-- [ ] 38 Method overriding
-- [ ] 39 Property shadowing
+- [x] 36 Classes
+- [x] 37 Inheritance
+- [x] 38 Method overriding
+- [x] 39 Property shadowing
 - [ ] 40 Event loop
 
 ## ASYNC MASTER (41–48)
