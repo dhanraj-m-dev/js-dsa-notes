@@ -50,14 +50,14 @@
 - [x] 37 Inheritance
 - [x] 38 Method overriding
 - [x] 39 Property shadowing
-- [ ] 40 Event loop
+- [x] 40 Event loop
 
 ## ASYNC MASTER (41–48)
 
-- [ ] 41 Promises
-- [ ] 42 then / catch / finally
-- [ ] 43 async / await
-- [ ] 44 Promise chaining
+- [x] 41 Promises
+- [x] 42 then / catch / finally
+- [x] 43 async / await
+- [x] 44 Promise chaining
 - [ ] 45 Promise.all
 - [ ] 46 Promise.race
 - [ ] 47 Promise.any
