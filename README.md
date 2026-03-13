@@ -58,10 +58,10 @@
 - [x] 42 then / catch / finally
 - [x] 43 async / await
 - [x] 44 Promise chaining
-- [ ] 45 Promise.all
-- [ ] 46 Promise.race
-- [ ] 47 Promise.any
-- [ ] 48 Promise.allSettled
+- [x] 45 Promise.all
+- [x] 46 Promise.race
+- [x] 47 Promise.any
+- [x] 48 Promise.allSettled
 
 ## ADVANCED JAVASCRIPT (49–64)
 
