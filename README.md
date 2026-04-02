@@ -66,7 +66,7 @@
 ## ADVANCED JAVASCRIPT (49–64)
 
 - [x] 49 map / filter / reduce
-- [ ] 50 find / some / every
+- [x] 50 find / some / every
 - [ ] 51 Spread operator
 - [ ] 52 Rest operator
 - [ ] 53 Destructuring
