@@ -67,9 +67,9 @@
 
 - [x] 49 map / filter / reduce
 - [x] 50 find / some / every
-- [ ] 51 Spread operator
-- [ ] 52 Rest operator
-- [ ] 53 Destructuring
+- [x] 51 Spread operator
+- [x] 52 Rest operator
+- [x] 53 Destructuring
 - [ ] 54 Array.from / Array.of
 - [ ] 55 Event delegation
 - [ ] 56 Debouncing
