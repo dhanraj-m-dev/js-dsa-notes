@@ -71,7 +71,7 @@
 - [x] 52 Rest operator
 - [x] 53 Destructuring
 - [x] 54 Array.from / Array.of
-- [ ] 55 Event delegation
+- [x] 55 Event delegation
 - [ ] 56 Debouncing
 - [ ] 57 Throttling
 - [ ] 58 Memoization
