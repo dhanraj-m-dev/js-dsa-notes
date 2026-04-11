@@ -72,7 +72,7 @@
 - [x] 53 Destructuring
 - [x] 54 Array.from / Array.of
 - [x] 55 Event delegation
-- [ ] 56 Debouncing
+- [x] 56 Debouncing
 - [ ] 57 Throttling
 - [ ] 58 Memoization
 - [ ] 59 Currying
