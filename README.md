@@ -73,7 +73,7 @@
 - [x] 54 Array.from / Array.of
 - [x] 55 Event delegation
 - [x] 56 Debouncing
-- [ ] 57 Throttling
+- [x] 57 Throttling
 - [ ] 58 Memoization
 - [ ] 59 Currying
 - [ ] 60 Partial application
