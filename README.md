@@ -74,7 +74,7 @@
 - [x] 55 Event delegation
 - [x] 56 Debouncing
 - [x] 57 Throttling
-- [ ] 58 Memoization
+- [x] 58 Memoization
 - [ ] 59 Currying
 - [ ] 60 Partial application
 - [ ] 61 Function composition
