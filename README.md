@@ -77,7 +77,7 @@
 - [x] 58 Memoization
 - [x] 59 Currying
 - [x] 60 Partial application
-- [ ] 61 Function composition
-- [ ] 62 Pure vs Impure functions
-- [ ] 63 Iterators
-- [ ] 64 Generators
+- [x] 61 Function composition
+- [x] 62 Pure vs Impure functions
+- [x] 63 Iterators
+- [x] 64 Generators
