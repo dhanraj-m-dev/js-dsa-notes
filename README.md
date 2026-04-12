@@ -75,8 +75,8 @@
 - [x] 56 Debouncing
 - [x] 57 Throttling
 - [x] 58 Memoization
-- [ ] 59 Currying
-- [ ] 60 Partial application
+- [x] 59 Currying
+- [x] 60 Partial application
 - [ ] 61 Function composition
 - [ ] 62 Pure vs Impure functions
 - [ ] 63 Iterators
