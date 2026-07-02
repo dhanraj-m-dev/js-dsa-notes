@@ -1,19 +1,21 @@
-let arr = [1, 1, 2, 2, 3, 4, 4];
+function removeDuplicates(nums) {
+  if (nums.length === 0) return 0;
 
-function removeDuplicates(arr) {
   let write = 0;
-  let read = 1;
 
-  while (read < arr.length) {
-    if (arr[write] === arr[read]) {
-      arr[read] = arr[read + 1];
-    } else {
-      read++;
+  for (let read = 1; read < nums.length; read++) {
+    if (nums[read] !== nums[write]) {
+      write++;
+      nums[write] = nums[read];
     }
   }
 
-  return arr;
+  return write + 1;
 }
 
-let duplicatesRemovedArray = removeDuplicates(arr);
-console.log(duplicatesRemovedArray, "durem");
+const nums = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4];
+
+const k = removeDuplicates(nums);
+
+console.log(k); // 5
+console.log(nums.slice(0, k)); // [0, 1, 2, 3, 4]
