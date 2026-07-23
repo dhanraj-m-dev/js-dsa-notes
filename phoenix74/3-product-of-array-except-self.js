@@ -1,0 +1,48 @@
+const input = [1, 2, 3, 4];
+
+// BRUTE FORCE :
+
+// function findProductOfArrayExceptItself(input) {
+//   const result = [];
+//   for (let i = 0; i < input.length; i++) {
+//     let currentProduct = 1;
+
+//     for (let j = 0; j < input.length; j++) {
+//       if (i !== j) {
+//         currentProduct = currentProduct * input[j];
+//       }
+//     }
+
+//     result.push(currentProduct);
+//   }
+
+//   return result;
+// }
+
+// let productOfArray = findProductOfArrayExceptItself(input);
+// console.log(productOfArray, "PRODUCT OF ARRAY");
+
+// Time complexity = O(n²)
+// Space complexity = O(n)
+
+function productExceptSelf(nums) {
+  const result = new Array(nums.length).fill(1);
+
+  let leftProduct = 1;
+
+  for (let i = 0; i < nums.length; i++) {
+    result[i] = leftProduct;
+    leftProduct *= nums[i];
+  }
+
+  let rightProduct = 1;
+
+  for (let i = nums.length - 1; i >= 0; i--) {
+    result[i] *= rightProduct;
+    rightProduct *= nums[i];
+  }
+
+  return result;
+}
+
+console.log(productExceptSelf([1, 2, 3, 4]));
