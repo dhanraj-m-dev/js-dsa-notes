@@ -33,3 +33,8 @@ console.log(person2); // city: "cbe"
  * - Primitives are copied by value
  * - Objects share the same memory reference
  */
+
+/**
+ * Additional notes:
+ * Primitives are copied by value; objects are copied by reference, so mutating an object affects all references pointing to it.
+ */

@@ -29,3 +29,8 @@ const c = 10;
  * - let and const are hoisted but in Temporal Dead Zone (TDZ)
  * - prefer const by default, use let when reassignment is needed
  */
+
+/**
+ * Additional notes:
+ * Use const by default, let when reassignment is needed, and avoid var because of function scope and redeclaration issues.
+ */
